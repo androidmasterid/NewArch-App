@@ -1,0 +1,11 @@
+# ninja log v5
+0	5	0	clean	4acbc4d8c9520d02
+7	64	1706693530989304211	build.ninja	3acac1269bb18d33
+0	8	0	/Users/harshg/Documents/Project/mobileApp/android/app/.cxx/Debug/t4f5x135/x86_64/CMakeFiles/cmake.verify_globs	c758174ab7193c68
+1	1390	1706693209650121463	CMakeFiles/appmodules.dir/Users/harshg/Documents/Project/mobileApp/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	6ac3d35b42a792d0
+1	1585	1706693209847395491	CMakeFiles/appmodules.dir/OnLoad.cpp.o	4ec5117652f7fe03
+1586	1662	1706693209923142289	/Users/harshg/Documents/Project/mobileApp/android/app/build/intermediates/cxx/Debug/t4f5x135/obj/x86_64/libappmodules.so	d142bc1b0294906d
+0	7	0	/Users/harshg/Documents/Project/mobileApp/android/app/.cxx/Debug/t4f5x135/x86_64/CMakeFiles/cmake.verify_globs	c758174ab7193c68
+1	806	1706693531824761813	CMakeFiles/appmodules.dir/Users/harshg/Documents/Project/mobileApp/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	6ac3d35b42a792d0
+1	943	1706693531961984932	CMakeFiles/appmodules.dir/OnLoad.cpp.o	4ec5117652f7fe03
+943	1000	1706693532017373483	/Users/harshg/Documents/Project/mobileApp/android/app/build/intermediates/cxx/Debug/t4f5x135/obj/x86_64/libappmodules.so	d142bc1b0294906d

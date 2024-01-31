@@ -1,0 +1,1 @@
+/Users/harshg/Documents/Project/mobileApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

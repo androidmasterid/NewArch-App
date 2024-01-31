@@ -1,3 +1,0 @@
-/Users/harshg/Documents/Project/mobileApp/android/app/.cxx/Debug/t4f5x135/x86/CMakeFiles/appmodules.dir
-/Users/harshg/Documents/Project/mobileApp/android/app/.cxx/Debug/t4f5x135/x86/CMakeFiles/edit_cache.dir
-/Users/harshg/Documents/Project/mobileApp/android/app/.cxx/Debug/t4f5x135/x86/CMakeFiles/rebuild_cache.dir
